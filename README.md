@@ -1,6 +1,6 @@
-# Photo Booth
+# AI Photo Booth App
 
-### Android debugging, payment integration and diagnostic engineering
+### AI-powered application engineering, Android development and diagnostics
 
 **Whitemore Ngwira · Engineering contributions at Sweet Robo**
 
@@ -14,9 +14,9 @@
 
 ## My work
 
-My photo-booth work at Sweet Robo spans Android debugging, payment-related application changes and diagnostic builds that help isolate problems across software and connected peripherals.
+I provide AI-powered application engineering for the Sweet Robo / Futureino AI Photo Booth app. My contributions include Android development, payment-related application changes, device-communication debugging and diagnostic APKs with repeatable test instructions.
 
-**Skills:** Android · Kotlin · Debugging · Payment integration · Diagnostics · Test isolation
+**Skills:** AI-powered applications · Android · Kotlin · Debugging · Payment integration · Diagnostics · Test isolation
 
 ## The product context
 
@@ -24,6 +24,7 @@ Futureino publicly describes its AI Photo Booth as a self-service photo experien
 
 ## My engineering contributions
 
+- **AI-powered application engineering:** Contribute software engineering, integration and validation within the existing team-owned AI Photo Booth app.
 - **Fault investigation:** Reproduced reported symptoms and investigated application and device-communication behaviour to narrow the next test.
 - **Application integration:** Contributed payment-related software and diagnostic controls for targeted testing.
 - **Diagnostic builds:** Prepared a dedicated test application separated from the normal application, with capabilities restricted to the investigation.
@@ -39,6 +40,10 @@ Application changes, focused diagnostic APKs and repeatable test instructions fo
 
 Debugging across an Android application and real peripherals, while keeping software evidence, physical test results and release decisions clearly distinguished.
 
+## AI-powered solutions
+
+The AI Photo Booth app is part of my wider AI solution work for Sweet Robo / Futureino. My related contributions include the [AI-powered management platform, remote diagnostics and camera-AI workflows](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering#ai-powered-solutions).
+
 ## AI-assisted engineering
 
 Across my connected-machine work, I use **Claude Code** and **OpenAI Codex** to support code understanding, scoped changes, debugging, verification and technical documentation. I direct the work, review the output and distinguish software checks from physical-machine acceptance.
@@ -49,8 +54,8 @@ Across my connected-machine work, I use **Claude Code** and **OpenAI Codex** to 
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
 - [Vending Machine](https://github.com/whitemorengwira/sweet-robo-vending-machine)
-- [Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth) — this showcase
-- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering)
+- [AI Photo Booth App](https://github.com/whitemorengwira/sweet-robo-photo-booth) — AI-powered application engineering — this showcase
+- [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering) — AI-powered management, remote diagnostics and camera-AI workflows
 
 ## Sources and portfolio scope
 
