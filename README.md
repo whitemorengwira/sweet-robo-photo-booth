@@ -1,76 +1,55 @@
 # Photo Booth
 
-### Android diagnostics & test engineering
+### Android debugging, payment integration and diagnostic engineering
 
-**Whitemore Ngwira · Sweet Robo · Selected engineering contributions**
+**Whitemore Ngwira · Engineering contributions at Sweet Robo**
 
-![Original concept illustration for Photo Booth; not actual company hardware or software](assets/hero.png)
+[Sweet Robo — official website](https://sweetrobo.com/) · [Futureino — official website](https://futureino.ai/) · [Explore the public product page](https://futureino.ai/vending-machines/ai-photo-booth-vending-machine)
 
-*AI-generated concept illustration. The equipment and interface shown are fictional; they are not photographs or screenshots of Sweet Robo products.*
+<p align="center">
+  <a href="https://futureino.ai/vending-machines/ai-photo-booth-vending-machine"><img src="assets/photo-booth-official.webp" alt="Futureino’s published AI Photo Booth product visual." width="520"></a>
+</p>
 
-## At a glance
+*Futureino’s published AI Photo Booth product visual. [View source image](https://futureino.ai/machines/ai-photo-booth-angle-front.webp).*
 
-I contributed Android debugging, payment-integration work and diagnostic test-build engineering for photo-booth systems during my work at Sweet Robo.
+## My work
 
-**Focus:** Application debugging and test engineering  
-**Skills demonstrated:** Android · Kotlin · Diagnostics · Payment integration · Test isolation
+My photo-booth work at Sweet Robo spans Android debugging, payment-related application changes and diagnostic builds that help isolate problems across software and connected peripherals.
 
-## The engineering challenge
+**Skills:** Android · Kotlin · Debugging · Payment integration · Diagnostics · Test isolation
 
-A photo-booth experience depends on software and several physical peripherals working together. A useful investigation has to separate application behaviour, device communication and the evidence still needed from a real machine.
+## The product context
 
-## My contribution
+Futureino publicly describes its AI Photo Booth as a self-service photo experience with AI styling and physical photo and sticker output. [Official source](https://futureino.ai/vending-machines/ai-photo-booth-vending-machine).
 
-### Application and peripheral diagnosis
+## My engineering contributions
 
-I investigated communication failures and traced symptoms through the application to narrow the next test.
+- **Fault investigation:** Reproduced reported symptoms and investigated application and device-communication behaviour to narrow the next test.
+- **Application integration:** Contributed payment-related software and diagnostic controls for targeted testing.
+- **Diagnostic builds:** Prepared a dedicated test application separated from the normal application, with capabilities restricted to the investigation.
+- **Evidence and handover:** Ran automated checks, inspected build properties and documented reproduction steps, test results and the remaining physical checks.
 
-### Integration and diagnostic tooling
+## What I produced
 
-I contributed payment-related application work and diagnostic controls that supported targeted testing.
+Application changes, focused diagnostic APKs and repeatable test instructions for engineering and factory review.
 
-### Isolated test builds
+## Engineering approach
 
-I prepared a dedicated diagnostic build separated from the normal application, with restricted capabilities suited to controlled investigation.
+![High-level engineering process; not a proprietary system diagram](assets/workflow.svg)
 
-### Evidence and handover
+Debugging across an Android application and real peripherals, while keeping software evidence, physical test results and release decisions clearly distinguished.
 
-I ran automated checks, inspected build properties and documented reproduction steps, test evidence and the remaining physical checks.
-
-## How I approached the work
-
-![Reproduce the symptom → Isolate the failure → Build a focused test → Document the evidence](assets/workflow.svg)
-
-*Illustrative debugging process; not the product's payment, camera or printing architecture.*
-
-1. Reproduce the symptom.
-2. Isolate the failure.
-3. Build a focused test.
-4. Document the evidence.
-
-## What the work produced
-
-The work produced application changes, diagnostic test APKs and repeatable test instructions for engineering and factory review.
-
-Automated checks, emulator results and diagnostic builds are different evidence from end-to-end hardware acceptance. This summary makes no blanket claim of successful payments, camera operation, printing or fleet deployment.
-
-## Public review boundary
-
-This is a documentation-only portfolio showcase. Private source code, internal platform names, infrastructure, endpoints, schemas, credentials, customer information, operational records and internal screenshots are excluded. Supporting work records remain private.
-
-The narrative explains my contribution within a team-owned product. The concept artwork is not evidence of implementation or an employer-approved product design.
-
-## Explore the series
+## Explore the engineering series
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
 - [Vending Machine](https://github.com/whitemorengwira/sweet-robo-vending-machine)
+- [Photo Booth](https://github.com/whitemorengwira/sweet-robo-photo-booth) — this showcase
 - [Control Centre Engineering](https://github.com/whitemorengwira/sweet-robo-control-centre-engineering)
 
-## Contact
+## Sources and portfolio scope
 
-[GitHub profile](https://github.com/whitemorengwira) · [N.White Systems](https://nwhite.systems/) · [Email Whitemore](mailto:hello@nwhite.systems)
+Official product information and imagery: [Futureino](https://futureino.ai/) and [Sweet Robo](https://sweetrobo.com/). Product descriptions are attributed public context; the first-person contribution statements describe my own work within an existing team.
 
-I can discuss my engineering approach and responsibilities within the applicable confidentiality boundaries.
+This documentation-only portfolio excludes proprietary source code, private infrastructure and non-public operational information. It does not imply sole product authorship, employer endorsement or completion of every hardware and release milestone. See [image credits and viewing notice](COPYRIGHT.md).
 
-See [Portfolio viewing notice](COPYRIGHT.md).
-
+[Contact me](mailto:hello@nwhite.systems) · [N.White Systems](https://nwhite.systems/) · [GitHub profile](https://github.com/whitemorengwira)
