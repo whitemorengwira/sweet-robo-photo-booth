@@ -39,6 +39,12 @@ Application changes, focused diagnostic APKs and repeatable test instructions fo
 
 Debugging across an Android application and real peripherals, while keeping software evidence, physical test results and release decisions clearly distinguished.
 
+## AI-assisted engineering
+
+Across my connected-machine work, I use **Claude Code** and **OpenAI Codex** to support code understanding, scoped changes, debugging, verification and technical documentation. I direct the work, review the output and distinguish software checks from physical-machine acceptance.
+
+[See how I use Claude Code and Codex in my engineering workflow](https://github.com/whitemorengwira#software-engineering-with-claude-code--codex). This describes my development method; it does not expose internal agent instructions or proprietary implementation details.
+
 ## Explore the engineering series
 
 - [Perfume Machine](https://github.com/whitemorengwira/sweet-robo-perfume-machine)
